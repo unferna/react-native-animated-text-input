@@ -1,6 +1,6 @@
 import React from "react"
 import { Animated, TextInput, View } from "react-native"
-import { type Origin, type AnimatedTextInputProps } from "src/typings"
+import { type Origin, type AnimatedTextInputProps } from "../typings"
 
 const AnimatedTextInput = ({
     placeholder,
