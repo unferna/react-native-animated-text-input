@@ -1,0 +1,8 @@
+{
+    "root": true,
+    "extends": ["@react-native-community", "plugin:prettier/recommended"],
+    "plugins": ["prettier"],
+    "rules": {
+        "react-native/no-inline-styles": 0
+    }
+}
