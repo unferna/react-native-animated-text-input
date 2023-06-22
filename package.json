@@ -2,7 +2,7 @@
   "name": "@unferna/react-native-animated-text-input",
   "version": "0.1.2",
   "description": "A simple input with a floating placeholder",
-  "main": "src/index",
+  "main": "src/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/typings.d.ts",
   "react-native": "src/index",

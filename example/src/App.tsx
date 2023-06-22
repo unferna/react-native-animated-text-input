@@ -1,18 +1,18 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import { multiply } from '@unferna/react-native-animated-text-input'
+import AnimatedTextInput from '@unferna/react-native-animated-text-input'
 
 export default function App() {
-  const [result, setResult] = React.useState<number | undefined>();
-
-  React.useEffect(() => {
-    multiply(3, 7).then(setResult);
-  }, []);
+  console.log(AnimatedTextInput)
 
   return (
     <View style={styles.container}>
-      <Text>Result: {result}</Text>
+      <AnimatedTextInput 
+        placeholder={'Testing placeholder'} 
+        fontSize={18} 
+        targetFontSize={14}        
+      />
     </View>
   );
 }
