@@ -1,6 +1,6 @@
 {
   "name": "@unferna/react-native-animated-text-input",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple input with a floating placeholder",
   "main": "src/index",
   "module": "lib/module/index",
