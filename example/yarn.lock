@@ -2073,9 +2073,9 @@
     "@types/yargs-parser" "*"
 
 "@unferna/react-native-animated-text-input@^0.1.1":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@unferna/react-native-animated-text-input/-/react-native-animated-text-input-0.1.3.tgz#7e5cdfda7d1cebdbaf079f35031a374a964ac961"
-  integrity sha512-3JrHKGFjDwB4PpzH8bwfbFNv9CXWRr45DDM5KOgR+I64JOmzIAKLF2diMnj5+0wY+qlsC4f+6alqwzKk6n/ZIA==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@unferna/react-native-animated-text-input/-/react-native-animated-text-input-0.1.4.tgz#12f2195a3311b7533580ff12b04a941b22adc903"
+  integrity sha512-0Hvup6LYqNnBUDZ96q2Jd/2IBN8KzLna8JYzmdQY4EMlJVHE2qXvl4JujvkfKq2wcsW4ouvcWz/Ylu/VcslIuA==
 
 "@urql/core@2.3.6":
   version "2.3.6"
